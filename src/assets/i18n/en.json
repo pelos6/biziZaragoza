@@ -1,0 +1,13 @@
+{
+  "Title": "Final practice",
+  "Loading": "Loading page...",
+  "Menu": {
+    "Home": "Home",
+    "BiziStationsList": "Bizi stations",
+    "BiziStationsMap": "Bizi stations map",
+    "ArticleList": "Articles"
+  },
+  "Home": {
+    "Title": "Welcome to our first angular webapp"
+  }
+}

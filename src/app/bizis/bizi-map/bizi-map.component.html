@@ -1,0 +1,6 @@
+<ngui-map zoom="13" center="Zaragoza, España" style="height:800px">
+  <marker *ngFor="let bizi of data"
+      [position]="bizi.coordinates"
+      [icon]="bizi.icon">
+  </marker>
+</ngui-map>
